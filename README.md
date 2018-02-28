@@ -13,5 +13,9 @@ In Chapter 4, we describe the relationship of terrain generation and hub generat
 
 As appendixes, we attached the list of modules, whole module guide, template xml, premade sub generator.
 
+# Acknowledgement
+
+The idea described in this book is based on the work of modding community, who encourage each other. What we do is that summarize existing information and check whether they are correct \(with tons of trials and wall of errors. XP\). We thank our kind neighbors in modding community, our collaborators, and contributors for community in any matter. This includes Tin, DurtySonuva, StompyNZ, Kubikus, Doc Saturn, n2n1, Haidrgna, \(and of course\) Kinyajuu and the other The Fun Pimps staffs.
+
 \(\( Put some awesome terrain here\)\)
 
