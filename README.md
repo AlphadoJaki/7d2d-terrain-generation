@@ -11,5 +11,7 @@ After that, we finally describe terrain generation guides.
 In Chapter 3, we show some important modules and simple example world based on them.  
 In Chapter 4, we describe the relationship of terrain generation and hub generation, and take a look at biome generation\(as a related area\).
 
+As appendixes, we attached the list of modules, whole module guide, template xml, premade sub generator.
+
 \(\( Put some awesome terrain here\)\)
 
