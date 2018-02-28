@@ -15,7 +15,7 @@ As appendixes, we attached the list of modules, whole module guide, template xml
 
 # Acknowledgement
 
-The idea described in this book is based on the work of modding community, who encourage each other. What we do is that summarize existing information and check whether they are correct \(with tons of trials and wall of errors. XP\). We thank our kind neighbors in modding community, our collaborators, and contributors for community in any matter. This includes Tin, DurtySonuva, StompyNZ, Kubikus, Doc Saturn, n2n1, Haidrgna, \(and of course\) Kinyajuu and the other The Fun Pimps staffs.
+The idea described in this book is based on the work of modding community, who encourage each other. What we do is that summarize existing information and check whether they are correct \(with tons of trials and wall of errors. XP\). We thank our kind neighbors in modding community, our collaborators, and contributors for community in any matter. This includes Tin, DurtySonuva, StompyNZ, Kubikus, Doc Saturn, n2n1, Haidrgna, Clockwork Orange, \(and of course\) Kinyajuu and the other The Fun Pimps staffs.
 
 \(\( Put some awesome terrain here\)\)
 
