@@ -20,5 +20,5 @@ Then, they are passed through modification modules & mixture module.
 Finally, mixture module make them into 1 module.  
 These process is repeated again and again, until final output module is made.
 
-![](/image/Sketch.png)
+![](/assets/Sketch.png)
 

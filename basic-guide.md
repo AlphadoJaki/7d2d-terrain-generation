@@ -89,7 +89,7 @@ Nice to use as controModule in Blend module or as base of terrain.
 
 This is the 2D image of generated FastNoise.
 
-![](/image/FastNoise.png)
+![](/assets/FastNoise.png)
 
 #### FastBillow
 
@@ -105,7 +105,7 @@ Nice to use as base of terrain, which sometime produce lowland in line.
 
 This is the image of generated FastBillow.
 
-![](/image/FastBillow.png)
+![](/assets/FastBillow.png)
 
 #### FastRidgedMultifractal
 
@@ -148,7 +148,7 @@ Exceeded value is replaced with ther closer “bounds”.
 
 This is the image of how ClampOutput works.
 
-![](/image/Clamp.png)
+![](/assets/Clamp.png)
 
 #### FastTurbulence
 
@@ -182,7 +182,7 @@ As "controlModule" goes for +1, "sourceModule2" emerges.
 
 This is the image of how Blend works.
 
-![](/image/Blend.png)
+![](/assets/Blend.png)
 
 ## Example
 
@@ -241,5 +241,5 @@ Nice terrain will be generated with only these 8 modules.
 
 This is generated terrain in RWG-Previewer
 
-![](/image/BasicExample.png)
+![](/assets/BasicExample.png)
 
