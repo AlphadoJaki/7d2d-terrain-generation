@@ -14,7 +14,7 @@
 * [Template XML code](appendix1/template-xml-code.md)
 * [Premade sub generator](appendix1/premade-sub-generator.md)
 
-## Appendix2
+## Appendix 2 Base Module Manual
 
 * [FastNoise](appendix2/fastnoise.md)
 * [FastBillow](appendix2/fastbillow.md)
@@ -23,7 +23,7 @@
 * [Cylinders](appendix2/cylinders.md)
 * [Checkerboard](appendix2/checkerboard.md)
 
-## Appendix3
+## Appendix 3 Modifier Module Manual
 
 * [ScaleInput](appendix3/scaleinput.md)
 * [TranslateInput](appendix3/translateinput.md)
@@ -37,7 +37,7 @@
 * [Terrace](appendix3/terrace.md)
 * [CurveOutput](appendix3/curveoutput.md)
 
-## Appendix4
+## Appendix 4 Mixture Module Manual
 
 * [Add](appendix4/add.md)
 * [Blend](appendix4/blend.md)
