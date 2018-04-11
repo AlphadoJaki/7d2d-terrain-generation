@@ -17,25 +17,33 @@
 ## Appendix 2 Base Module Manual
 
 * [FastNoise](appendix2/fastnoise.md)
+* [Perlin](appendix2/perlin.md)
 * [FastBillow](appendix2/fastbillow.md)
+* [Billow](appendix2/billow.md)
 * [FastRidgedMultiFractal](appendix2/fastridgedmultifractal.md)
-* [Constant](appendix2/constant.md)
+* [RidgedMultiFractal](appendix2/ridgedmultifractal.md)
 * [Cylinders](appendix2/cylinders.md)
 * [Checkerboard](appendix2/checkerboard.md)
+* [Constant](appendix2/constant.md)
+* [Spheres](appendix2/spheres.md)
+* [Voronoi](appendix2/voronoi.md)
 
 ## Appendix 3 Modifier Module Manual
 
 * [ScaleInput](appendix3/scaleinput.md)
 * [TranslateInput](appendix3/translateinput.md)
+* [RotateInput](appendix3/rotateinput.md)
 * [ScaleBiasOutput](appendix3/scalebiasoutput.md)
 * [AbsoluteOutput](appendix3/absoluteoutput.md)
 * [InvertInput](appendix3/invertinput.md)
 * [InvertOutput](appendix3/invertoutput.md)
 * [ClampOutput](appendix3/clampoutput.md)
 * [FastTurbulence](appendix3/fastturbulence.md)
+* [Turbulence](appendix3/turbulence.md)
+* [DisplaceInput](appendix3/displaceinput.md)
 * [ExponentialOutput](appendix3/exponentialoutput.md)
 * [Terrace](appendix3/terrace.md)
-* [CurveOutput](appendix3/curveoutput.md)
+* RotateInput
 
 ## Appendix 4 Mixture Module Manual
 
