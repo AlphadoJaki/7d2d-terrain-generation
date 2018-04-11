@@ -1,6 +1,6 @@
 # ScaleInput
 
-Shrink / Extend "sourceModule" toward X, Z and Y \(**NOT** elevation\) axis. If you set larger than 1, output is shrinked as same as the frequency for base modules.
+Shrink / Extend _**sourceModule**_ toward X, Z and Y \(**NOT** elevation\) axis. If you set larger than 1, output is shrinked as same as the frequency for base modules.
 
 ## Parameters
 

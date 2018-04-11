@@ -1,6 +1,6 @@
 # FastTurbulence
 
-Distort "sourceModule" using FastNoise. Larger power, more wavy/warping output. Larger frequency, more noisy output.
+Distort _**sourceModule**_ using _FastNoise_. Larger _**power**_, more wavy/warping output. Larger _**frequency**_, more noisy output.
 
 Ensure to use unique seed\_additive, unless you expect completely same noise with others.
 

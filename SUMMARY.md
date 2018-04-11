@@ -35,6 +35,7 @@
 * [FastTurbulence](appendix3/fastturbulence.md)
 * [ExponentialOutput](appendix3/exponentialoutput.md)
 * [Terrace](appendix3/terrace.md)
+* [CurveOutput](appendix3/curveoutput.md)
 
 ## Appendix4
 

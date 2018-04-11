@@ -1,6 +1,6 @@
 # TranslateInput
 
-Move "sourceModule" toward X, Z and Y \(**NOT** elevation\) axis.
+Move _**sourceModule**_ toward X, Z and Y \(**NOT** elevation\) axis.
 
 ## Parameters
 
