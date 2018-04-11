@@ -33,7 +33,7 @@ Checkerboard
 
 * Make a checkerboard.
 * The squares whose elevation is 1 and ones to -1 appear alternatingly
-* Each of square is 500x500.
+* Each of square is 512x512.
 
 Constant
 
@@ -44,7 +44,7 @@ Cylinders
 
 * Make a ripple oscillating between -1 to 1.
 * This module start at 0,0 with 1 elevation.
-* Distance between each peak is 500
+* Distance between each peak is 512
 
 Spheres
 
@@ -148,7 +148,7 @@ Blend
 * Mix 2 modules gradually.
 * As "controlModule" goes for -1, "sourceModule1" emerges,
   as "controlModule" goes for+1, "sourceModule2" emerges.
-* It is better to regularize "controlModule" into -1~+1 bounds.
+* It is better to regularize "controlModule" into -1 to +1 bounds.
 
 Select
 
