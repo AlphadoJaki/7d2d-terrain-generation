@@ -21,6 +21,7 @@
 * [FastRidgedMultiFractal](appendix2/fastridgedmultifractal.md)
 * [Constant](appendix2/constant.md)
 * [Cylinders](appendix2/cylinders.md)
+* [Checkerboard](appendix2/checkerboard.md)
 
 ## Appendix3
 

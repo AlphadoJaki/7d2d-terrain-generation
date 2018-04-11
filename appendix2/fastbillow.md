@@ -22,5 +22,7 @@ FastBillow module is the optimized version of Billow module. Mostly good, but so
 
 ## Screenshot
 
-Gray-scale elevation mapping: Black is -1, White is +1. Red area is out of -1 to +1 bound.![](/assets/BoundCheck_FastBillow.png)
+Gray-scale elevation mapping: Black is -1, White is +1. Red area is out of -1 to +1 bound.
+
+![](/assets/BoundCheck_FastBillow.png)
 

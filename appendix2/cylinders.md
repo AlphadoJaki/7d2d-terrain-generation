@@ -10,5 +10,7 @@ Oscillating frequency.
 
 ## Screenshot
 
-Gray-scale elevation mapping: Black is -1, White is +1.![](/assets/Cylinders.png)
+Gray-scale elevation mapping: Black is -1, White is +1.
+
+![](/assets/Cylinders.png)
 

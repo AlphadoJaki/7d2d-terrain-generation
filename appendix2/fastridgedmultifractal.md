@@ -24,5 +24,7 @@ FastRidgedMultifractal module is the optimized version of RidgedMultifractal mod
 
 ## Screenshot
 
-Gray-scale elevation mapping: Black is -1, White is +1. Red area is out of -1 to +1 bound.![](/assets/BoundCheck_FastRidgedMultifractal.png)
+Gray-scale elevation mapping: Black is -1, White is +1. Red area is out of -1 to +1 bound.
+
+![](/assets/BoundCheck_FastRidgedMultifractal.png)
 

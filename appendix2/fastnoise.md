@@ -34,5 +34,7 @@ FastNoise module is the optimized version of Perlin module. Mostly good, but som
 
 ## Screenshot
 
-Gray-scale elevation mapping: Black is -1, White is +1. Red area is out of -1 to +1 bound.![](/assets/BoundCheck_FastNoise.png)
+Gray-scale elevation mapping: Black is -1, White is +1. Red area is out of -1 to +1 bound.
+
+![](/assets/BoundCheck_FastNoise.png)
 
